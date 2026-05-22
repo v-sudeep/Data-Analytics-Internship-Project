@@ -1,4 +1,4 @@
-# Ecommerce Sales Performance Analysis
+Data Analytics Internship Project – Ecommerce Sales Performance Analysis
 
 ## Project Overview
 This project was developed during my Data Analytics internship to analyze ecommerce sales data and generate meaningful business insights using Power BI. The project transforms raw data into interactive dashboards for better decision-making and business performance analysis.
